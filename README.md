@@ -11,8 +11,8 @@ A curated collection of representative papers on in-context learning for vision 
 |:---:|:----:|-------|:-----:|
 | 01 | ICLR | PromptHub: Enhancing Multi-Prompt Visual In-Context Learning with Locality-Aware Fusion, Concentration and Alignment | [Paper](https://arxiv.org/abs/2603.18891) / [Code](https://github.com/luotc-why/ICLR26-PromptHub) |
 | 02 | CVPR | Love Me, Love My Label: Rethinking the Role of Labels in Prompt Retrieval for Visual In-Context Learning | [Paper](https://arxiv.org/abs/2604.03657) / [Code](https://github.com/luotc-why/CVPR26-LaPR) |
-| 03 | - | Paper Title | [Paper](-) / [Code] |
-| 04 | - | Paper Title | [Paper](-) / [Code] |
+| 03 | AAAI | CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37592) / [Code] |
+| 04 | AAAI | Make LVLMs Focus: Context-Aware Attention Modulation for Better Multimodal In-Context Learning | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37591) / [Code] |
 
 ## 2025
 
