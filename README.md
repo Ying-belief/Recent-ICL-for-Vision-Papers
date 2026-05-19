@@ -1,5 +1,5 @@
 # Recent-ICL-for-Visual-Tasks-Papers
-A curated collection of representative papers on in-context learning for vision tasks.
+A curated collection of representative papers on in-context learning for visual tasks.
 
 ---
 
