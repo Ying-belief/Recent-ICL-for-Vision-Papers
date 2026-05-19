@@ -18,7 +18,7 @@ A curated collection of representative papers on in-context learning for vision 
 
 | No. | Pub. | Title | Links |
 |:---:|:----:|-------|:-----:|
-| 01 | - | Paper Title | [Paper](-) / [Code] |
-| 02 | - | Paper Title | [Paper](-) / [Code] |
+| 01 | IEEE TIP | Exploring Effective Factors for Improving Visual In-Context Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/10945944) / [Code](https://github.com/syp2ysy/prompt-SelF) |
+| 02 | ICCV | VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_VisualCloze_A_Universal_Image_Generation_Framework_via_Visual_In-Context_Learning_ICCV_2025_paper.html) / [Code](https://visualcloze.github.io/) |
 | 03 | - | Paper Title | [Paper](-) / [Code] |
 | 04 | - | Paper Title | [Paper](-) / [Code] |
