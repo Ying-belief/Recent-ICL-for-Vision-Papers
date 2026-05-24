@@ -3,6 +3,15 @@ A curated collection of representative papers on in-context learning for visual 
 
 ---
 
+## Selection Scope
+
+This repository mainly collects representative papers on **in-context learning (ICL) for visual tasks** published in top-tier conferences and journals from **2024 to 2026**.
+
+**Conferences:** CVPR, ICCV, ECCV, ICML, NeurIPS, ICLR, AAAI, ACM MM, IJCAI.  
+**Journals:** TPAMI, IJCV, TIP, TMM, TCSVT.
+
+---
+
 ## Visual In-Context Learning Papers
 
 ## 2026
