@@ -31,3 +31,15 @@ This repository mainly collects representative papers on **in-context learning (
 | 02 | ICCV | VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_VisualCloze_A_Universal_Image_Generation_Framework_via_Visual_In-Context_Learning_ICCV_2025_paper.html) / [Code](https://visualcloze.github.io/) |
 | 03 | AAAI | AWRaCLe: All-Weather Image Restoration Using Visual In-Context Learning | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32716) / [Code] |
 | 04 | ICCV | RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Lin_RealGeneral_Unifying_Visual_Generation_via_Temporal_In-Context_Learning_with_Video_ICCV_2025_paper.html) / [Code](https://github.com/Lyne1/RealGeneral) |
+
+## 2024
+
+| No. | Pub. | Title | Links |
+|:---:|:----:|-------|:-----:|
+| 01 | - | Paper Title | [Paper](-) / [Code] |
+| 02 | - | Paper Title | [Paper](-) / [Code] |
+| 03 | - | Paper Title | [Paper](-) / [Code] |
+| 04 | - | Paper Title | [Paper](-) / [Code] |
+| 05 | - | Paper Title | [Paper](-) / [Code] |
+| 06 | - | Paper Title | [Paper](-) / [Code] |
+| 07 | - | Paper Title | [Paper](-) / [Code] |
